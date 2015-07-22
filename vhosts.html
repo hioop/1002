@@ -1,0 +1,12 @@
+<VirtualHost 127.0.0.1>
+        DocumentRoot "D:/phpStudy/WWW/m"
+        ServerName localhost
+        ErrorLog "logs/family.log"
+        CustomLog "logs/family.log" common
+        <Directory "D:/phpStudy/WWW/m">
+            options -Indexes
+            AllowOverride all
+            Order allow,deny
+            Allow from all
+        </Directory>
+    </VirtualHost>
