@@ -13,7 +13,7 @@
 
 ***B屏上线通知服务器 需要重新开启一个telnet客户端 当做B屏***
 ```json
-{"status":1,"reason":"ok","serial":"woshiBping2","type":"online","version":"v1.0","message_id":"guard_7","time":1439628533,"from":"B","to":"ceshi001","house_id":8,"items":[],"token":"123456"}
+{"status":1,"reason":"ok","serial":"woshiBping2","type":"online","version":"v1.0","message_id":"guard_18","time":1439628533,"from":"B","to":"66Y6R15530000903","house_id":13,"items":[],"token":"123456"}
 ```
 
 
